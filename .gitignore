@@ -8,8 +8,10 @@
 .metals
 .vscode
 .bsp
+**/.gradle
 metals.sbt
 
 target/
 
+sbt-plugin/target
 .DS_Store
